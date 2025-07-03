@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nidhi Mishra - Occupational Therapist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #2a9d8f;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Nidhi Mishra's Website</h1>
+  <p>Hello! I am <strong>Nidhi Mishra</strong>, a Pediatric Occupational Therapist based in Mumbai, India.</p>
+  <p>I specialize in treating children with autism, ADHD, learning disabilities, and more.</p>
+  <p>Contact me for therapy consultations and home visits.</p>
+</body>
+</html>
